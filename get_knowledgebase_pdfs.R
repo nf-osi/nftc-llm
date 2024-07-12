@@ -2,6 +2,7 @@
 ## The metadata JSON file includes information such as the DOI, title, author, journal, publication date, and abstract.
 ## Both the PDFs and metadata files will be uploaded to an S3 bucket for use in an Amazon Bedrock knowledge base.
 
+
 # Load required libraries
 library(httr)
 library(jsonlite)

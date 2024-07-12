@@ -1,0 +1,28 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: An AWS Lambda application that calls the Lambda API.
+Resources:
+  function:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: lambda_function.lambda_handler
+      Runtime: python3.11
+      CodeUri: s3://lambda-artifacts-ea14f6ae742e67da/3c7e57f1f73580722dca14659fdc1009
+      Description: Call the AWS Lambda API
+      Timeout: 180
+      Policies:
+      - AWSLambdaBasicExecutionRole
+      - AWSLambda_ReadOnlyAccess
+      - AWSXrayWriteOnlyAccess
+      - AmazonBedrockFullAccess
+      Tracing: Active
+      Layers:
+      - Ref: libs
+  libs:
+    Type: AWS::Serverless::LayerVersion
+    Properties:
+      LayerName: observation-extractions
+      Description: Dependencies for the observation-extractions Lambda function
+      ContentUri: s3://lambda-artifacts-ea14f6ae742e67da/c2cc07bee5118e35ced91e1c0c2b8758
+      CompatibleRuntimes:
+      - python3.11
