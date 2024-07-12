@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+2b79f24b-7362-4687-8c66-03bcb6a26ab3,SW480,['Cell Line'],"The SW480 cell line did not produce any liver colonies when injected into mice, despite being able to form tumors subcutaneously.","['Tumor growth', 'Metastasis']",,,,https://doi.org/10.1002/1097-0142(19930115)71:2<315::aid-cncr2820710208>3.0.co;2-b
+2b79f24b-7362-4687-8c66-03bcb6a26ab3,SW480,['Cell Line'],The SW480 cell line was derived from the same patient as the SW620 cell line and they share similar TP53 mutations (c.925C>T p.P309S and c.818G>A p.R273H).,['Genomics'],,,,https://doi.org/10.1002/humu.22556

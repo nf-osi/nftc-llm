@@ -1,0 +1,4 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+49286dfd-632c-4f62-834f-d1441e05fde5,NMB,['Cell Line'],"The NMB cell line was obtained from DMSZ (Braunschweig, Germany).",['Cell line source'],,,,https://www.doi.org/10.1593/tlo.13544
+49286dfd-632c-4f62-834f-d1441e05fde5,NMB,['Cell Line'],The NMB cell line showed loss of heterozygosity encompassing the NF1 region.,['Genomics'],,,,https://www.doi.org/10.1016/j.cell.2010.06.004
+49286dfd-632c-4f62-834f-d1441e05fde5,NMB,['Cell Line'],"The NMB cell line was obtained from DMSZ (Braunschweig, Germany).",['Cell line source'],,,,https://www.doi.org/10.1593/tlo.13544

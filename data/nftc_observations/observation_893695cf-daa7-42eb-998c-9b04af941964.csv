@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+893695cf-daa7-42eb-998c-9b04af941964,B6.129S1-Nf1tm1Cbr/J,['Animal Model'],"The Nf1+/- mouse line showed no significant difference in grip strength compared to wild-type controls, and no significant differences in muscle fiber size for type 2B, 2X, and 2A fibers.","['Muscle strength', 'Muscle fiber size']",,,,https://doi.org/10.1093/hmg/ddt515

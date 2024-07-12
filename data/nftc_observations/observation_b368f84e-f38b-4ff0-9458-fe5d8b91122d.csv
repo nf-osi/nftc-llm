@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+b368f84e-f38b-4ff0-9458-fe5d8b91122d,ST88-3,['Cell Line'],"The ST88-3 cell line expresses the EGF receptor but not the GGF receptor, in contrast to the 88-14 and 90-8 lines which express both receptors.",['Receptor expression'],,,,https://doi.org/10.1172/JCI7610
+b368f84e-f38b-4ff0-9458-fe5d8b91122d,ST88-3,['Cell Line'],"The ST88-3 cell line had increased expression of miR-135b and miR-889, which were shown to induce Wnt signaling and promote invasion when inhibited by antisense inhibitors in this cell line.","['miRNA expression', 'Cellular invasion']",,,,https://doi.org/10.1038/s41598-020-59789-4

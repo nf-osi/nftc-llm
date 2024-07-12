@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+c87d24ac-439e-404a-9a43-6110c497599e,SJNB-3,['Cell Line'],"The SJNB-3 cell line, also known as N1003L, is a neuroblastoma cell line derived from a patient at St. Jude Children's Research Hospital. It has single copy N-MYC levels and has been passaged 60-170 times.","['Cell line identity', 'Genomics']",,,,https://www.doi.org/10.1073/pnas.90.12.5539
+c87d24ac-439e-404a-9a43-6110c497599e,SJNB-3,['Cell Line'],The SJNB-3 neuroblastoma cell line was used to study NF1 gene expression.,['Experimental usage'],,,,https://www.doi.org/10.1073/pnas.90.12.5539

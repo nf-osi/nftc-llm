@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+300695f7-5d65-413f-8f6c-290c4b09f710,HAP1 NF1 (-) 1,['Cell Line'],"The HAP1 NF1 (-) 1 cell line was generated using CRISPR/Cas9 to knock out the NF1 gene, resulting in a mixture of wildtype and NF1 knockout cells.","['Genetics', 'Cell line generation']",,,,https://doi.org/10.3390/cancers13071584
+300695f7-5d65-413f-8f6c-290c4b09f710,HAP1 NF1 (-) 1,['Cell Line'],"The HAP1 NF1 (-) 1 cell line showed increased anchorage-independent growth in soft agar assays when NF1 was knocked out, suggesting NF1 acts as a tumor suppressor gene in this context.","['Functional assays', 'Tumor suppressor']",,,,https://doi.org/10.3390/cancers13071584

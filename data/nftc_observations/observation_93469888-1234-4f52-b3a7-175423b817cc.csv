@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+93469888-1234-4f52-b3a7-175423b817cc,NCI-H1385,['Cell Line'],"The NCI-H1385 cell line was classified as having a 'Classical' gene expression subtype of squamous cell lung cancer, but clustered more closely with the 'Primitive' subtype than the 'Secretory' subtype based on gene expression profiling.","['Gene expression', 'Molecular subtype']",,,,https://www.doi.org/10.1038/bjc.2013.452

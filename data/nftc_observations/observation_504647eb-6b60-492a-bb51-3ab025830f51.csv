@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+504647eb-6b60-492a-bb51-3ab025830f51,sNF94.3,['Cell Line'],The sNF94.3 cell line is an MPNST (malignant peripheral nerve sheath tumor) cell line derived from an NF1 patient. It was established and published by M. Wallace and is available from ATCC.,"['Cell line origin', 'Depositor comment']",,,,https://www.doi.org/10.18632/oncotarget.25181
+504647eb-6b60-492a-bb51-3ab025830f51,sNF94.3,['Cell Line'],"Cell line authentication by STR profiling showed a 100% match between sNF94.3 and the known STR profile in the ATCC database, confirming its identity.",['Cell line identity'],,,,https://www.doi.org/10.18632/oncotarget.25181

@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+3e6aae84-e57c-4c1d-9ce7-24a03026b435,SJNB-7,['Cell Line'],"The SJNB-7 cell line, also known as NB7 or NCG, is a neuroblastoma cell line with N-MYC gene amplification that has been passaged 60-170 times.","['Cell line identity', 'Genomics']",,,,https://doi.org/10.1073/pnas.90.12.5539
+3e6aae84-e57c-4c1d-9ce7-24a03026b435,SJNB-7,['Cell Line'],The SJNB-7 neuroblastoma cell line exhibited high expression of the NFI gene compared to other childhood solid tumor cell lines examined.,['Gene expression'],,,,https://doi.org/10.1073/pnas.90.12.5539

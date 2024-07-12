@@ -1,0 +1,6 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+fc3ae45e-9a5b-4fa5-8430-f53479f07f5a,NCC-MPNST1-C1,['Cell Line'],The NCC-MPNST1-C1 cell line had a doubling time of 40 hours.,['Growth rate'],,,,https://doi.org/10.1186/s12935-020-1128-z
+fc3ae45e-9a5b-4fa5-8430-f53479f07f5a,NCC-MPNST1-C1,['Cell Line'],The NCC-MPNST1-C1 cell line exhibited rather weak invasive potential compared to other NCC-MPNST cell lines.,['Invasion'],,,,https://doi.org/10.1186/s12935-020-1128-z
+fc3ae45e-9a5b-4fa5-8430-f53479f07f5a,NCC-MPNST1-C1,['Cell Line'],The NCC-MPNST1-C1 cell line harbored the potential to form spheroids.,['Spheroid formation'],,,,https://doi.org/10.1186/s12935-020-1128-z
+fc3ae45e-9a5b-4fa5-8430-f53479f07f5a,NCC-MPNST1-C1,['Cell Line'],The NCC-MPNST1-C1 cell line was classified into a group with NCC-MPNST4-C1 and NCC-MPNST5-C1 based on its sensitivity to certain anti-cancer agents.,['Drug response'],,,,https://doi.org/10.1186/s12935-020-1128-z
+fc3ae45e-9a5b-4fa5-8430-f53479f07f5a,NCC-MPNST1-C1,['Cell Line'],The NCC-MPNST1-C1 cell line was derived from the original tumor tissue of a 37-year-old woman with NF1 who had a painful mass on her right posterior thigh.,['Origin'],,,,https://doi.org/10.1186/s12935-020-1128-z

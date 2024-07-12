@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+45cf8733-b0c2-433e-b5fc-abd3a0748b79,PNET-2,['Cell Line'],"The PNET2 cell line is of human CNS origin and expresses NTP molecules. Preliminary studies suggested growth and differentiation responsiveness, and modulation of NTP gene expression by insulin stimulation.","['Cell line origin', 'Gene expression']",,,,https://www.doi.org/10.1042/bj3100125

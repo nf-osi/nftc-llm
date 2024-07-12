@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+05280043-5ac8-4427-9e19-f53c8efd260e,SK-MEL-229,['Cell Line'],"The SK-MEL-229 cell line shares certain HLA class I allospecificities with other melanoma cell lines like SK-MEL-19, SK-MEL-31, SK-MEL-37, SK-MEL-40, SK-MEL-63, SK-MEL-13, MZ-MEL-2, SK-MEL-64, SK-MEL-88, and SK-MEL-97.",['Genetics'],,,,https://doi.org/10.1073/pnas.86.8.2804

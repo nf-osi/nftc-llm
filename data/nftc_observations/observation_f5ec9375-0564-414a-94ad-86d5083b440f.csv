@@ -1,0 +1,4 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+f5ec9375-0564-414a-94ad-86d5083b440f,Abcam HCT 116 NF1 KO,['Cell Line'],"The HCT116 cell line, which has an NF1 mutation, did not express detectable levels of the NF1 protein.",['Protein expression'],,,,https://www.doi.org/10.1126/scisignal.aaw8288
+f5ec9375-0564-414a-94ad-86d5083b440f,Abcam HCT 116 NF1 KO,['Cell Line'],"The HCT116 cell line, which has both an NF1 mutation and a KRAS G13D mutation, was insensitive to the drug cetuximab.",['Drug response'],,,,https://www.doi.org/10.1126/scisignal.aaw8288
+f5ec9375-0564-414a-94ad-86d5083b440f,Abcam HCT 116 NF1 KO,['Cell Line'],The HCT116 cell line was one of three colorectal cancer cell lines found to have both a KRAS G13D mutation and an NF1 mutation.,"['Mutation status', 'Cell line identity']",,,,https://www.doi.org/10.1126/scisignal.aaw8288

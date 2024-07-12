@@ -1,0 +1,4 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+2a57bc0e-51ee-4a44-a872-2ed8ab56f4c6,COLO 668,Cell Line,The COLO 668 cell line was used to develop a cisplatin-resistant subline called SNU-668-CIS.,['Drug resistance'],,,,https://doi.org/10.4143/crt.2005.37.1.1
+2a57bc0e-51ee-4a44-a872-2ed8ab56f4c6,COLO 668,Cell Line,The COLO 668 cell line was also used to develop a 5-fluorouracil-resistant subline called SNU-668-5FU.,['Drug resistance'],,,,https://doi.org/10.4143/crt.2005.37.1.1
+2a57bc0e-51ee-4a44-a872-2ed8ab56f4c6,COLO 668,Cell Line,The COLO 668 cell line was further used to develop a doxorubicin-resistant subline called SNU-668-DOX.,['Drug resistance'],,,,https://doi.org/10.4143/crt.2005.37.1.1

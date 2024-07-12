@@ -1,0 +1,4 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+8f02bdc8-5936-495a-af4b-0b94b14dfe2c,SK-MEL-207,['Cell Line'],The SK-MEL-207 cell line harbors a BRAF V600E mutation and is PTEN-null.,"['Genetics', 'Molecular biology']",,,,https://doi.org/10.1038/onc.2011.250
+8f02bdc8-5936-495a-af4b-0b94b14dfe2c,SK-MEL-207,['Cell Line'],The SK-MEL-207 cell line lacks functional RB1 due to a homozygous deletion in the RB1 gene.,"['Genetics', 'Molecular biology']",,,,https://doi.org/10.1038/onc.2011.250
+8f02bdc8-5936-495a-af4b-0b94b14dfe2c,SK-MEL-207,['Cell Line'],"Treatment of SK-MEL-207 cells with the MEK inhibitor PD0325901 downregulated cyclin D1 expression but did not induce p27 or G1 cell cycle arrest, likely due to the RB1 deficiency.","['Drug response', 'Cell cycle']",,,,https://doi.org/10.1038/onc.2011.250

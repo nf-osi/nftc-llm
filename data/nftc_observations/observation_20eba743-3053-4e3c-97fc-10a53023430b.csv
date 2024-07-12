@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+20eba743-3053-4e3c-97fc-10a53023430b,SK-MEL-451,Cell Line,"The SK-MEL-451 cell line was found to share certain HLA class I allospecificities with the SK-MEL-29 cell line, including A2, Bw4, Bw6, and Cw6.",['Cell line identity'],,,,https://doi.org/10.1073/pnas.86.8.2804
+20eba743-3053-4e3c-97fc-10a53023430b,SK-MEL-451,Cell Line,The SK-MEL-451 cell line was found to express the melanoma cell surface antigen M-2.,['Cell surface markers'],,,,https://doi.org/10.1084/jem.156.6.1755

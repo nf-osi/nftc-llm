@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+bd531418-d7a3-456f-8473-1e9fd37ed3a5,SK-MEL-439,['Cell Line'],"The SK-MEL-439 cell line was used as a target in cytotoxicity assays with cytotoxic T lymphocyte clones, indicating it is a melanoma cell line.",['Cell line identity'],,,,https://doi.org/10.1073/pnas.86.8.2804

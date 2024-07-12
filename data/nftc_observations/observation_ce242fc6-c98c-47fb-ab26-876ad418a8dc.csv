@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+ce242fc6-c98c-47fb-ab26-876ad418a8dc,SK-MEL-359,['Cell Line'],"The SK-MEL-359 cell line shares certain HLA class I allospecificities with the SK-MEL-29 cell line, including A2, Bw4, Bw6, and Cw6.","['Genetics', 'Cell line identity']",,,,https://doi.org/10.1073/pnas.86.8.2804

@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+13938786-687b-4476-845f-04a0533aac60,SK-MEL-367,['Cell Line'],The SK-MEL-367 cell line was one of several melanoma cell lines tested for expression of cell surface antigens.,['General Comment or Review'],,,,https://www.doi.org/10.1084/jem.156.6.1755
+13938786-687b-4476-845f-04a0533aac60,SK-MEL-367,['Cell Line'],The SK-MEL-367 cell line was listed among several melanoma cell lines tested for sensitivity to the BRAF inhibitor vemurafenib.,['Drug response'],,,,https://www.doi.org/10.1158/0008-5472.CAN-13-2625

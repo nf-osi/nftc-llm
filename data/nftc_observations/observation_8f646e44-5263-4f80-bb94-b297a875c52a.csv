@@ -1,0 +1,5 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+8f646e44-5263-4f80-bb94-b297a875c52a,NCC-MPNST2-C1,['Cell Line'],The NCC-MPNST2-C1 cell line had a doubling time of 57 hours.,['Growth rate'],,57,hours,https://doi.org/10.1186/s12935-020-1128-z
+8f646e44-5263-4f80-bb94-b297a875c52a,NCC-MPNST2-C1,['Cell Line'],The NCC-MPNST2-C1 cell line exhibited considerably strong invasive potential in in vitro invasion assays.,"['Invasion', 'Cell behavior']",,,,https://doi.org/10.1186/s12935-020-1128-z
+8f646e44-5263-4f80-bb94-b297a875c52a,NCC-MPNST2-C1,['Cell Line'],The NCC-MPNST2-C1 cell line had higher invasion ability compared to four other NCC-MPNST cell lines in a real-time cell analysis (RTCA) invasion assay.,"['Invasion', 'Cell behavior']",,,,https://doi.org/10.1186/s12935-020-1128-z
+8f646e44-5263-4f80-bb94-b297a875c52a,NCC-MPNST2-C1,['Cell Line'],"The NCC-MPNST2-C1 cell line harbored the potential to form spheroids, which are used as in vitro 3D tissue micro-analogs in cancer research.","['Cell behavior', '3D culture']",,,,https://doi.org/10.1186/s12935-020-1128-z

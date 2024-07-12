@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+ff17bb4d-4cb0-4366-8d6b-e59a7ad73837,SK-MEL-264,['Cell Line'],The SK-MEL-264 cell line harbors a BRAF D594G mutation that was not detected by the Sequenom assay used in the study.,['Genomics'],,,,https://www.doi.org/10.1158/0008-5472.CAN-13-2625
+ff17bb4d-4cb0-4366-8d6b-e59a7ad73837,SK-MEL-264,['Cell Line'],"The SK-MEL-264 cell line was one of the BRAF/RAS wild-type cell lines that exhibited activated RAS levels, suggesting occult MAPK pathway alterations.",['Signaling pathway'],,,,https://www.doi.org/10.1158/0008-5472.CAN-13-2625

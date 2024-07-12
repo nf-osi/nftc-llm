@@ -1,0 +1,5 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+a6f287de-eadb-4020-be7a-5b761172fec6,CFPAC-1,['Cell Line'],The CFPAC-1 cell line was derived from a liver metastasis of a 26-year-old male patient with cystic fibrosis who had a well-differentiated adenocarcinoma in the head of the pancreas and multiple liver metastases.,"['Cell line origin', 'Patient information']",,,,https://doi.org/10.1097/MPA.0b013e3181c15963
+a6f287de-eadb-4020-be7a-5b761172fec6,CFPAC-1,['Cell Line'],The CFPAC-1 cell line was derived from a pancreatic epithelial adenocarcinoma.,['Cell line origin'],,,,https://doi.org/10.1016/j.jcf.2004.05.040
+a6f287de-eadb-4020-be7a-5b761172fec6,CFPAC-1,['Cell Line'],The CFPAC-1 cell line is a null control for the cystic fibrosis transmembrane conductance regulator (CFTR) gene.,['Genetics'],,,,https://doi.org/10.1016/j.jcf.2004.05.040
+a6f287de-eadb-4020-be7a-5b761172fec6,CFPAC-1,['Cell Line'],The CFPAC-1 cell line exhibits a range of 300-800 passages.,['Cell line characteristics'],,,,https://doi.org/10.1016/j.jcf.2004.05.040

@@ -1,0 +1,4 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+fd37b60c-e8f7-451a-87e2-20792451c6fe,HPAF-II,['Cell Line'],The HPAF-II cell line was one of the cell lines used to compare different shRNA scoring approaches for identifying essential genes.,['Experimental usage'],,,,https://www.doi.org/10.1158/2159-8290.CD-11-0224
+fd37b60c-e8f7-451a-87e2-20792451c6fe,HPAF-II,['Cell Line'],The HPAF-II cell line was included in a proteomic analysis comparing the phosphoproteomic profiles of multiple pancreatic cancer cell lines.,['Proteomics'],,,,https://www.doi.org/10.1074/mcp.M116.058313
+fd37b60c-e8f7-451a-87e2-20792451c6fe,HPAF-II,['Cell Line'],The HPAF-II cell line was derived from a pancreatic adenocarcinoma and is known to produce abundant mucin as well as carcinoembryonic antigen.,"['Cell line characteristics', 'Biomarkers']",,,,https://www.doi.org/10.1097/MPA.0b013e3181c15963

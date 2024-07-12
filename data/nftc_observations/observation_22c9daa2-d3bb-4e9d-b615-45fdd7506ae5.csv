@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+22c9daa2-d3bb-4e9d-b615-45fdd7506ae5,SK-MEL-301,['Cell Line'],The SK-MEL-301 cell line was included in a panel of melanoma cell lines that were analyzed for expression of various cell surface antigens.,['Cell surface markers'],,,,https://doi.org/10.1084/jem.156.6.1755

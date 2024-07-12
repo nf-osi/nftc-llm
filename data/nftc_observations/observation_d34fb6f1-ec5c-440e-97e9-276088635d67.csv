@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+d34fb6f1-ec5c-440e-97e9-276088635d67,SK-MEL-428,['Cell Line'],"The SK-MEL-428 cell line was used as a target in cytotoxicity assays with cytotoxic T lymphocyte (CTL) clones, suggesting it is a melanoma cell line susceptible to immune attack.",['Experimental usage'],,,,https://doi.org/10.1073/pnas.86.8.2804
+d34fb6f1-ec5c-440e-97e9-276088635d67,SK-MEL-428,['Cell Line'],The SK-MEL-428 cell line was listed among other melanoma cell lines that were analyzed for expression of various cell surface antigens.,['Experimental usage'],,,,https://doi.org/10.1084/jem.156.6.1755

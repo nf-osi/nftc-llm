@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+58b28d42-aa4f-496f-be70-257e8d1a95c6,129-Nf1<tm1Fcr>/Nci,['Animal Model'],"Nf1+/- heterozygous mice bearing the deletion of exon 31 and part of intron 30 in Nf1 showed increased spleen weight compared to wild-type mice, but no other significant differences in organ weights, histological abnormalities, or blood counts.","['Organ development', 'Hematology']",adult,8,months,https://doi.org/10.1186/1471-2164-11-194

@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+95e9ea19-3d84-43a5-b003-347ecec6b1fa,NCI-H23,Cell Line,The NCI-H23 cell line is a human lung cancer cell line used in experiments studying cytochrome c release and caspase activation in response to treatment with the drug Triacsin c.,['Experimental usage'],,,,https://doi.org/10.1093/jnci/dji133
+95e9ea19-3d84-43a5-b003-347ecec6b1fa,NCI-H23,Cell Line,The NCI-H23 cell line is one of the NCI-60 cancer cell lines used for drug screening and has a mutant TP53 gene.,"['Genomics', 'Usage Instructions']",,,,https://doi.org/10.1158/1535-7163.MCT-06-0433

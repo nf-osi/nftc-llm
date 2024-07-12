@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+6cbf7434-7dd5-4ed5-9ca6-77e65e2b4b36,N206,Cell Line,"The N206 neuroblastoma cell line showed loss of heterozygosity encompassing the NF1 region, indicating a defect in the NF1 gene.",['Genomics'],,,,https://doi.org/10.1016/j.cell.2010.06.004

@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+441ea70d-e784-4fc0-a080-50e07acf5f05,Nf1flox/flox;Krox20-Cre,['Animal Model'],"The Nf1flox/flox;Krox20-Cre mice exhibited hyperplastic lesions in the cranial nerves, with reduced lesion frequency, size, collagen accumulation, and mast cell infiltration compared to Nf1flox/-;Krox20-Cre mice.","['Tumor incidence', 'Tumor pathology']",,6,months,https://doi.org/10.1126/science.1068452

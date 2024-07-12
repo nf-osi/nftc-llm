@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+0bc812b4-f2af-40c4-8245-1070ab12f627,JH-2-009,['Cell Line'],The JH-2-009 cell line has a splice site mutation c.2409+1G>A in the NF1 gene and loss of one copy of the NF1 gene.,['Genomics'],,,,https://www.doi.org/10.1158/0008-5472.CAN-20-1992
+0bc812b4-f2af-40c4-8245-1070ab12f627,JH-2-009,['Cell Line'],The JH-2-009 cell line exhibited reduced ERK phosphorylation compared to other NF1-deficient cell lines like STS26T and ST8814 when treated with MEK inhibitors.,"['Signaling', 'Drug response']",,24,hours,https://www.doi.org/10.1158/0008-5472.CAN-20-1992

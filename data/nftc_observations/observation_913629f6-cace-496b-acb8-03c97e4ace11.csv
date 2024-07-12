@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+913629f6-cace-496b-acb8-03c97e4ace11,SK-MEL-432,['Cell Line'],The SK-MEL-432 cell line was found to share certain HLA class I allospecificities with the SK-MEL-29 cell line phenotype.,"['Genetics', 'Cell line identity']",,,,https://doi.org/10.1073/pnas.86.8.2804

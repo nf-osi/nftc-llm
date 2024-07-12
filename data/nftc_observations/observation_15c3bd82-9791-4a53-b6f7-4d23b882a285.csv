@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+15c3bd82-9791-4a53-b6f7-4d23b882a285,Nf1-/- skin-derived precursor cells,['Cell Line'],Nf1-null skin-derived precursor cells develop into dermal neurofibromas when implanted in adult mice.,['Tumor formation'],,,,https://doi.org/10.1038/jid.2012.240
+15c3bd82-9791-4a53-b6f7-4d23b882a285,Nf1-/- skin-derived precursor cells,['Cell Line'],"The cell of origin of cutaneous neurofibromas persists at adult stage and is present in the skin vicinity, and skin-derived precursor cells from a mouse model could generate neurofibromas in an orthotopic transplantation model.","['Cell of origin', 'Tumor formation']",,,,https://doi.org/10.1158/2159-8290.CD-18-0151

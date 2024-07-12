@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+d269f40c-b3e7-4dc7-9c40-28ba1f9711cf,SK-MEL-15,['Cell Line'],"The SK-MEL-28 cell line was found to be homozygous for the BRAF E599 mutation, while the SK-MEL-15 cell line had the wild-type BRAF sequence at codon 599.",['Genomics'],,,,https://doi.org/10.1046/j.0022-202X.2004.22243.x

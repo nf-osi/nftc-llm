@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+81ae2a05-5102-473f-88fa-9d9bbe8fd35e,MPNST-14,['Cell Line'],"The MPNST-14 cell line was identified as having the same STR profile as the ST88-14 cell line and its matched primary MPNST tumor, suggesting it may not be a distinct cell line but rather a duplicate or misidentified version of ST88-14.",['Cell line identity'],,,,https://www.doi.org/10.1016/j.isci.2023.106096

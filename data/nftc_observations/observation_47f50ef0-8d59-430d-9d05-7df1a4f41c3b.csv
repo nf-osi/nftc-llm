@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+47f50ef0-8d59-430d-9d05-7df1a4f41c3b,Nf1Arg681*/Arg681* MEFs,['Cell Line'],"Neurofibromin was completely absent in Nf1Arg681*/Arg681* MEFs, resulting in hyperactivation of phosphorylated ERK (pERK) levels compared to wild-type controls.","['Protein expression', 'Signaling pathway']",,,,https://doi.org/10.1242/dmm.025783
+47f50ef0-8d59-430d-9d05-7df1a4f41c3b,Nf1Arg681*/Arg681* MEFs,['Cell Line'],"Nf1Arg681*/Arg681* mouse embryos failed to develop past embryonic day 9.5 due to cardiovascular defects, similar to Nf1 null embryos.","['Embryonic development', 'Disease phenotype']",prenatal,9.5,days,https://doi.org/10.1242/dmm.025783

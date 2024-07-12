@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+4adf5880-df01-4b08-aed3-11366ca77f42,SK-MEL-246,['Cell Line'],The SK-MEL-246 cell line harbors a G245S mutation in the BRAF gene.,['Genomics'],,,,https://www.doi.org/10.1002/humu.22556
+4adf5880-df01-4b08-aed3-11366ca77f42,SK-MEL-246,['Cell Line'],"The SK-MEL-246 cell line expresses HLA class I allospecificities A2, Bw4, and Bw6 that are shared with the SK-MEL-29 melanoma cell line.",['Immunology'],,,,https://doi.org/10.1073/pnas.86.8.2804

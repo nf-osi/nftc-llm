@@ -1,0 +1,4 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+935f7b60-4c34-4fc9-a877-ec901f25f162,SK-MEL-406,['Cell Line'],"The SK-MEL-406 cell line was used as a target cell line in cytotoxicity assays with cytotoxic T lymphocyte (CTL) clones, indicating it is a melanoma cell line.",['Experimental usage'],,,,https://doi.org/10.1073/pnas.86.8.2804
+935f7b60-4c34-4fc9-a877-ec901f25f162,SK-MEL-406,['Cell Line'],"The SK-MEL-406 cell line was shown to express the melanoma cell surface antigens M-2, M-5, HLA-DR, M-4, M-7, M-9, and M-10 in an immunohistochemical analysis.","['Protein expression', 'Cell surface markers']",,,,https://doi.org/10.1084/jem.156.6.1755
+935f7b60-4c34-4fc9-a877-ec901f25f162,SK-MEL-406,['Cell Line'],The SK-MEL-406 cell line was found to have a heterozygous BRAF V600E mutation.,"['Genomics', 'Mutation']",,,,https://doi.org/10.1210/jc.2008-1102

@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+5a676545-f9b5-4fdb-bf0f-3b68dfdb58b8,MCRIi021-A,Cell Line,"The MCRIi021-A cell line, also known as NF1_047.7, is a male Caucasian induced pluripotent stem cell (iPSC) line derived from a 9-year-old patient with Neurofibromatosis Type 1.","['Cell line identity', 'Disease association']",,,,https://www.doi.org/10.1016/j.scr.2020.102013

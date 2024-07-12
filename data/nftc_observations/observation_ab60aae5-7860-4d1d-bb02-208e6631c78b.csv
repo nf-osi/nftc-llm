@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+ab60aae5-7860-4d1d-bb02-208e6631c78b,hTERT NF1 ipNF95.11b C/T,Cell Line,"The hTERT NF1 ipNF95.11b C/T cell line was produced by lenti-hTERT transduction of the pNF95.11b primary culture at passage 8, followed by retro-mCdk4 transduction at passage 20.",['Cell line derivation'],,,,https://doi.org/10.1038/labinvest.2016.88

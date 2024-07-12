@@ -1,0 +1,6 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+9b44907f-47e9-470f-918e-03e55cc9eff9,2-004,Cell Line,The 2-004 cell line was derived from a malignant peripheral nerve sheath tumor (MPNST) and harbors a NF1 mutation.,"['Cell line origin', 'Genetics']",,,,https://doi.org/10.1016/j.isci.2023.106096
+9b44907f-47e9-470f-918e-03e55cc9eff9,2-004,Cell Line,The 2-004 cell line exhibited gains in genomic regions containing the PDGFRA and KIT receptors.,['Genomics'],,,,https://doi.org/10.1016/j.isci.2023.106096
+9b44907f-47e9-470f-918e-03e55cc9eff9,2-004,Cell Line,The 2-004 cell line was derived from a malignant peripheral nerve sheath tumor (MPNST).,['Cell line origin'],,,,https://doi.org/10.1016/j.isci.2023.106096
+9b44907f-47e9-470f-918e-03e55cc9eff9,2-004,Cell Line,"The 2-004 cell line harbored inactivating mutations in the CDKN2A gene, a known tumor suppressor frequently mutated in malignant peripheral nerve sheath tumors.","['Genetics', 'Tumor biology']",,,,https://doi.org/10.1016/j.isci.2023.106096
+9b44907f-47e9-470f-918e-03e55cc9eff9,2-004,Cell Line,No additional unique and highly accurate observations about the 2-004 cell line were found in the provided search results.,['General Comment or Review'],,,,

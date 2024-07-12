@@ -1,0 +1,7 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+86dcdce8-8416-4157-a31e-04c6edd3ca65,HS53T,Cell Line,"The HS53T cell line was derived from a human malignant peripheral nerve sheath tumor (MPNST) and harbors a heterozygous NF1 mutation (c.2041C>T, p.Arg681Ter).","['Cell line origin', 'Genetics']",,,,https://doi.org/10.1016/j.isci.2023.106096
+86dcdce8-8416-4157-a31e-04c6edd3ca65,HS53T,Cell Line,The HS53T cell line exhibited a homozygous deletion of the CDKN2A tumor suppressor gene.,['Genetics'],,,,https://doi.org/10.1016/j.isci.2023.106096
+86dcdce8-8416-4157-a31e-04c6edd3ca65,HS53T,Cell Line,The HS53T cell line had a highly gained region in chromosome 7 containing the EGFR receptor.,['Genomics'],,,,https://doi.org/10.1016/j.isci.2023.106096
+86dcdce8-8416-4157-a31e-04c6edd3ca65,HS53T,Cell Line,The HS53T cell line exhibited a homozygous deletion of the CDKN2B tumor suppressor gene in addition to CDKN2A.,['Genetics'],,,,https://doi.org/10.1016/j.isci.2023.106096
+86dcdce8-8416-4157-a31e-04c6edd3ca65,HS53T,Cell Line,HS53T cells had a focal amplification of the MDM2 oncogene.,['Genomics'],,,,https://doi.org/10.1016/j.isci.2023.106096
+86dcdce8-8416-4157-a31e-04c6edd3ca65,HS53T,Cell Line,"The HS53T cell line exhibited a homozygous deletion of the SUZ12 gene, which is a component of the Polycomb repressive complex 2 (PRC2).",['Genetics'],,,,https://doi.org/10.1016/j.isci.2023.106096

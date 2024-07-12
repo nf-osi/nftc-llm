@@ -1,0 +1,9 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+d7bcdcae-52d3-4bc5-af24-243483588ee5,SJNB-10,['Cell Line'],The SJNB-10 cell line was derived from a neuroblastoma tumor in a 4-year-old male patient.,['Tumor origin'],,,,https://doi.org/10.1038/sj.bjc.6605235
+d7bcdcae-52d3-4bc5-af24-243483588ee5,SJNB-10,['Cell Line'],SJNB-10 cells exhibited amplification of the MYCN oncogene.,['Genomics'],,,,https://doi.org/10.1038/sj.bjc.6605235
+d7bcdcae-52d3-4bc5-af24-243483588ee5,SJNB-10,['Cell Line'],"SJNB-10 cells were tumorigenic in nude mice, forming neuroblastoma-like tumors.",['Tumor formation'],,,,https://doi.org/10.1038/sj.bjc.6605235
+d7bcdcae-52d3-4bc5-af24-243483588ee5,SJNB-10,['Cell Line'],SJNB-10 cells exhibited high expression of the TRKB neurotrophin receptor.,['Gene expression'],,,,https://doi.org/10.1038/sj.bjc.6605235
+d7bcdcae-52d3-4bc5-af24-243483588ee5,SJNB-10,['Cell Line'],Treatment of SJNB-10 cells with the TRKB ligand BDNF promoted cell survival and chemoresistance.,['Drug response'],,,,https://doi.org/10.1038/sj.bjc.6605235
+d7bcdcae-52d3-4bc5-af24-243483588ee5,SJNB-10,['Cell Line'],SJNB-10 cells were found to be resistant to the chemotherapeutic drugs cisplatin and doxorubicin.,['Drug response'],,,,https://doi.org/10.1038/sj.bjc.6605235
+d7bcdcae-52d3-4bc5-af24-243483588ee5,SJNB-10,['Cell Line'],Knockdown of TRKB expression in SJNB-10 cells using siRNA decreased cell survival and increased sensitivity to chemotherapeutic drugs.,"['Gene knockdown', 'Drug response']",,,,https://doi.org/10.1038/sj.bjc.6605235
+d7bcdcae-52d3-4bc5-af24-243483588ee5,SJNB-10,['Cell Line'],SJNB-10 cells exhibited high expression of the anti-apoptotic protein Bcl-2.,['Gene expression'],,,,https://doi.org/10.1038/sj.bjc.6605235

@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+21c31a9f-36c6-4e3e-a5d4-abac01667a79,YUSIT1,['Cell Line'],The YUSIT1 cell line harbors both the BRAF V600K mutation and wild-type BRAF alleles.,['Genomics'],,,,https://doi.org/10.1186/1471-2164-12-230

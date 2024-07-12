@@ -1,0 +1,4 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+ffc1bc88-d5ec-4b2f-a36b-6052f9d736b7,SK-MEL-266,['Cell Line'],"The SK-MEL-266 cell line harbors a Q282* nonsense mutation in the NF1 gene, with 37% of cells showing this mutation.",['Genomics'],,,,https://www.doi.org/10.1158/0008-5472.CAN-13-2625
+ffc1bc88-d5ec-4b2f-a36b-6052f9d736b7,SK-MEL-266,['Cell Line'],"The SK-MEL-266 cell line has a L161* nonsense mutation in the NF1 gene, present in 49% of cells.",['Genomics'],,,,https://www.doi.org/10.1158/0008-5472.CAN-13-2625
+ffc1bc88-d5ec-4b2f-a36b-6052f9d736b7,SK-MEL-266,['Cell Line'],The SK-MEL-266 cell line exhibits copy number loss across the entire NF1 gene locus on chromosome 17.,['Genomics'],,,,https://www.doi.org/10.1158/0008-5472.CAN-13-2625

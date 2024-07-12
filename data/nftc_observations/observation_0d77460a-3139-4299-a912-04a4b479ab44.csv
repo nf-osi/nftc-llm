@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+0d77460a-3139-4299-a912-04a4b479ab44,SK-MEL-455,['Cell Line'],"The SK-MEL-455 cell line was found to express the melanoma cell surface antigens M-2, M-5, HLA-DR, M-4, M-7, M-9, and M-10.",['Cell surface markers'],,,,https://doi.org/10.1084/jem.156.6.1755

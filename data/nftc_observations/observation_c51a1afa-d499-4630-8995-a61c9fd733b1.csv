@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+c51a1afa-d499-4630-8995-a61c9fd733b1,SNU-C2A,['Cell Line'],The SNU-C2A cell line exhibits microsatellite instability at the BAT-25 and BAT-26 markers.,['Genomics'],,,,https://doi.org/10.4143/crt.2005.37.1.1
+c51a1afa-d499-4630-8995-a61c9fd733b1,SNU-C2A,['Cell Line'],The SNU-C2A cell line was established from a colorectal carcinoma and characterized along with several other SNU colorectal cancer cell lines.,"['Origin', 'General Comment or Review']",,,,https://doi.org/10.4143/crt.2005.37.1.1

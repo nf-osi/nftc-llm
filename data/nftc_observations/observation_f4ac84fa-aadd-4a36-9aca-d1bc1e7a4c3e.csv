@@ -1,0 +1,4 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+f4ac84fa-aadd-4a36-9aca-d1bc1e7a4c3e,SK-MEL-217,['Cell Line'],"The SK-MEL-217 cell line expressed high levels of activated RAS, including both GTP-bound KRAS and NRAS, likely due to loss of NF1 expression. It harbored KRAS gene amplification.","['Oncogene activation', 'Genomics']",,,,https://www.doi.org/10.1158/0008-5472.CAN-13-2625
+f4ac84fa-aadd-4a36-9aca-d1bc1e7a4c3e,SK-MEL-217,['Cell Line'],The SK-MEL-217 cell line exhibited copy number gain of the KRAS gene locus on chromosome 17.,['Genomics'],,,,https://www.doi.org/10.1158/0008-5472.CAN-13-2625
+f4ac84fa-aadd-4a36-9aca-d1bc1e7a4c3e,SK-MEL-217,['Cell Line'],The SK-MEL-217 cell line was found to have complete loss of NF1 expression.,"['Genomics', 'Gene expression']",,,,https://www.doi.org/10.1158/0008-5472.CAN-13-2625

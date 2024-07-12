@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+c4b5d552-0eea-4ff6-b127-6d9a691b5600,SK-MEL-441,['Cell Line'],The SK-MEL-441 cell line was included in a panel of melanoma cell lines that were analyzed for expression of various cell surface antigens.,['Cell surface markers'],,,,https://doi.org/10.1084/jem.156.6.1755

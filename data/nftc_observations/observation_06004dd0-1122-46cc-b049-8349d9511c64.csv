@@ -1,0 +1,5 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+06004dd0-1122-46cc-b049-8349d9511c64,NCI-H747,['Cell Line'],The NCI-H747 cell line was derived from a patient with bronchial carcinoid tumor.,['Cell line origin'],,,,https://doi.org/10.1159/000338793
+06004dd0-1122-46cc-b049-8349d9511c64,NCI-H747,['Cell Line'],The NCI-H747 cell line expresses p53 mRNA and is able to secrete a parathyroid hormone-like protein that is calcium-stimulated through a protein kinase C pathway.,"['Molecular biology', 'Physiology']",,,,https://doi.org/10.1159/000338793
+06004dd0-1122-46cc-b049-8349d9511c64,NCI-H747,['Cell Line'],The growth of the NCI-H747 cell line is inhibited by EGFR monoclonal antibodies.,['Drug response'],,,,https://doi.org/10.1159/000338793
+06004dd0-1122-46cc-b049-8349d9511c64,NCI-H747,['Cell Line'],The NCI-H747 cell line was used to evaluate the ability of EGFR monoclonal antibodies to inhibit growth of lung cancer cells in xenograft studies in nude mice.,"['In vivo studies', 'Drug response']",,,,https://doi.org/10.1159/000338793

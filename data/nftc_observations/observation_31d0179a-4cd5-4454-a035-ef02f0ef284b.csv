@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+31d0179a-4cd5-4454-a035-ef02f0ef284b,SK-MEL-256,['Cell Line'],The SK-MEL-256 cell line was used as a target cell line to test the cytotoxicity of allogeneic cytotoxic T lymphocyte (CTL) clones against melanoma cells expressing certain HLA class I alleles.,['Experimental usage'],,,,https://doi.org/10.1073/pnas.86.8.2804

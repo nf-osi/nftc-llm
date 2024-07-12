@@ -1,0 +1,4 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+a0193c87-8813-4841-92e7-ee5095bd94fe,HSC1λ,['Cell Line'],"The HSC1λ cell line was derived from a human malignant peripheral nerve sheath tumor (MPNST) and harbors a homozygous NF1 nonsense mutation (c.2041C>T, p.Arg681*).","['Genetics', 'Cell line origin']",,,,https://doi.org/10.1016/j.isci.2023.106096
+a0193c87-8813-4841-92e7-ee5095bd94fe,HSC1λ,['Cell Line'],"The HSC1λ cell line exhibited a homozygous deletion of the CDKN2A locus, which is frequently inactivated in MPNSTs.",['Genomics'],,,,https://doi.org/10.1016/j.isci.2023.106096
+a0193c87-8813-4841-92e7-ee5095bd94fe,HSC1λ,['Cell Line'],The HSC1λ cell line exhibited a homozygous deletion of the CDKN2B locus in addition to CDKN2A.,['Genomics'],,,,https://doi.org/10.1016/j.isci.2023.106096

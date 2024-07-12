@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+818f4c93-dbd3-41f7-b557-f264f7949c6e,MPNST-642,['Cell Line'],The MPNST-642 cell line was recently established and is an NF1-associated MPNST cell line.,['Cell line origin'],,,,https://doi.org/10.1158/0008-5472.CAN-10-2799
+818f4c93-dbd3-41f7-b557-f264f7949c6e,MPNST-642,['Cell Line'],"The MPNST-642 cell line was one of six MPNST cell lines used to evaluate the effects of histone deacetylase inhibitors (HDACis) on growth and clonogenicity. MPNST-642 was found to be sensitive to the HDACi PCI-24781, with a GI50 between 0.1 and 0.35 μM after 48 hours of treatment.",['Drug response'],,,,https://doi.org/10.1158/0008-5472.CAN-10-2799

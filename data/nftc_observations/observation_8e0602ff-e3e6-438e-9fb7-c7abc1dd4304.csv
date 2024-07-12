@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+8e0602ff-e3e6-438e-9fb7-c7abc1dd4304,hTERT NF1 ipnNF09.4,['Cell Line'],"The hTERT NF1 ipnNF09.4 cell line was derived from non-tumor nerve of a subject with NF1, leading to a matched heterozygous Schwann cell line.",['Cell line origin'],,,,https://doi.org/10.1038/labinvest.2016.88

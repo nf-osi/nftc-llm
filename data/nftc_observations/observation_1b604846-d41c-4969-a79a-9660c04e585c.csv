@@ -1,0 +1,5 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+1b604846-d41c-4969-a79a-9660c04e585c,NCC-MPNST3-X2-C1,['Cell Line'],The NCC-MPNST3-X2-C1 cell line had a doubling time of 58 hours.,['Growth rate'],,58,hours,https://doi.org/10.1186/s12935-020-1128-z
+1b604846-d41c-4969-a79a-9660c04e585c,NCC-MPNST3-X2-C1,['Cell Line'],The NCC-MPNST3-X2-C1 cell line exhibited weak invasive potential in in vitro invasion assays.,['Invasion'],,,,https://doi.org/10.1186/s12935-020-1128-z
+1b604846-d41c-4969-a79a-9660c04e585c,NCC-MPNST3-X2-C1,['Cell Line'],The NCC-MPNST3-X2-C1 cell line harbored the potential to form spheroids.,['Spheroid formation'],,,,https://doi.org/10.1186/s12935-020-1128-z
+1b604846-d41c-4969-a79a-9660c04e585c,NCC-MPNST3-X2-C1,['Cell Line'],The NCC-MPNST3-X2-C1 cell line was found to be negative for Mycoplasma contamination based on PCR testing.,['Quality control'],,,,https://doi.org/10.1186/s12935-020-1128-z

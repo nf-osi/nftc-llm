@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+e71b421a-5e1d-49d6-a045-aa03aff7e7fe,Nf1flox/flox;Cx3cr1+/gfp,['Animal Model'],"The Nf1flox/flox;Cx3cr1+/gfp mouse model exhibits Nf1 gene inactivation specifically in microglia and other myeloid cells, allowing study of the role of these cells in neurofibromatosis pathogenesis.","['Genetic modification', 'Disease modeling']",,,,https://doi.org/10.1371/journal.pone.0228222

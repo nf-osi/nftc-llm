@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+da179d37-bc2d-4725-8621-f8ec49b917d0,NCI-H2444,['Cell Line'],The NCI-H2444 cell line was one of seven cancer cell lines included in the NCI-7 Cell Line Panel used as a reference material for mass spectrometric analysis of the human proteome.,['Usage'],,,,https://www.doi.org/10.1021/acs.jproteome.8b00165

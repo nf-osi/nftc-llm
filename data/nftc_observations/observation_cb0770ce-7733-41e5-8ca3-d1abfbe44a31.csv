@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+cb0770ce-7733-41e5-8ca3-d1abfbe44a31,PEO4,['Cell Line'],The PEO4 cell line showed increased caspase-3 cleavage and apoptosis when treated with 160 μM carboplatin for 48 hours compared to the untreated PEO4 wild-type cells.,"['Drug response', 'Apoptosis']",,48,hours,https://www.doi.org/10.1016/j.xcrm.2021.100471

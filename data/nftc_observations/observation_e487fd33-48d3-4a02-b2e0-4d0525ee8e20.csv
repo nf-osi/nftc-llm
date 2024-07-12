@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+e487fd33-48d3-4a02-b2e0-4d0525ee8e20,Nf1flox/-; GFAP-Cre; Cx3cr1+/gfp,['Animal Model'],"The Nf1flox/-; GFAP-Cre; Cx3cr1+/gfp mouse model was used to study the role of microglia in low-grade glioma growth, where neurofibromin is lost in neuroglial progenitors and their progeny while microglia express GFP.",['Model description'],,,,https://doi.org/10.1016/j.neo.2015.10.002

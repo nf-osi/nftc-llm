@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+b3ae87c9-2734-4809-a08a-9212cf278437,Nf1flox/floxRac1flox/flox;PostnCre(+),['Animal Model'],"The Nf1flox/floxRac1flox/flox;PostnCre(+) mice exhibited a total absence of peripheral nerve tumors at 9 months of age, in contrast to the Nf1flox/flox;PostnCre(+) mice which develop multiple peripheral nerve tumors with 100% penetrance by 6 months.",['Tumor incidence'],,9,months,https://doi.org/10.1074/jbc.RA119.010981

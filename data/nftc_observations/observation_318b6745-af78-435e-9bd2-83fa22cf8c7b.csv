@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+318b6745-af78-435e-9bd2-83fa22cf8c7b,SK-MEL-230,['Cell Line'],"The SK-MEL-230 cell line shares certain HLA class I allospecificities with the SK-MEL-29 cell line, including A2, Bw4, Bw6, and Cw6.","['Genetics', 'Cell line identity']",,,,https://doi.org/10.1073/pnas.86.8.2804

@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+fb8aed26-e95a-4b7d-b4fb-d4b9f1847c9c,NZM072,['Cell Line'],The NZM072 cell line was derived from a melanoma patient and cultured in alpha-MEM medium supplemented with serum and other factors under 5% oxygen conditions to mimic physiological conditions. The cells underwent short tandem repeat (STR) analysis for authentication.,"['Cell line derivation', 'Cell culture conditions', 'Cell line authentication']",,,,https://doi.org/10.1111/pcmr.12908

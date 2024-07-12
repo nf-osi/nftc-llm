@@ -1,0 +1,4 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+d86c2e88-3de9-4c0f-9cb5-de2921b8207f,HTh74 clone 7,['Cell Line'],The HTh74 clone 7 cell line is derived from an undifferentiated thyroid carcinoma from a female patient.,['Cell line origin'],,,,https://www.doi.org/10.1158/1078-0432.CCR-11-0690
+d86c2e88-3de9-4c0f-9cb5-de2921b8207f,HTh74 clone 7,['Cell Line'],The STR profile of the HTh74 clone 7 cell line is unique among the panel of thyroid cancer cell lines analyzed.,['Genetics'],,,,https://www.doi.org/10.1210/jc.2008-1102
+d86c2e88-3de9-4c0f-9cb5-de2921b8207f,HTh74 clone 7,['Cell Line'],The HTh74 clone 7 cell line expresses undetectable levels of the thyroid transcription factors TTF-1 and Pax-8.,['Gene expression'],,,,https://www.doi.org/10.1210/jc.2008-1102

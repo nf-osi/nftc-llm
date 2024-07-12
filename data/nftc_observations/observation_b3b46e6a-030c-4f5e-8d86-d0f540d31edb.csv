@@ -1,0 +1,4 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+b3b46e6a-030c-4f5e-8d86-d0f540d31edb,QGP-1,['Cell Line'],"The QGP-1 cell line showed strong staining for neuron-specific enolase (NSE), moderate staining for CD57, and weak staining for the neuroendocrine markers VMAT1 and 5-HT.","['Protein expression', 'Cell markers']",,,,https://www.doi.org/10.1530/ERC-17-0445
+b3b46e6a-030c-4f5e-8d86-d0f540d31edb,QGP-1,['Cell Line'],"The QGP-1 cell line exhibited weak to moderate staining for the epithelial markers cytokeratin 8/18, confirming its epithelial phenotype.","['Protein expression', 'Cell markers']",,,,https://www.doi.org/10.1530/ERC-17-0445
+b3b46e6a-030c-4f5e-8d86-d0f540d31edb,QGP-1,['Cell Line'],,[],,,,

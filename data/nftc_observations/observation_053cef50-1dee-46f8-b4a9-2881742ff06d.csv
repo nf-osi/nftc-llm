@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+053cef50-1dee-46f8-b4a9-2881742ff06d,SK-MEL-64,['Cell Line'],The SK-MEL-64 cell line expresses the HLA class I allospecificities Bw4 and Cw6.,['Immunology'],,,,https://doi.org/10.1073/pnas.86.8.2804

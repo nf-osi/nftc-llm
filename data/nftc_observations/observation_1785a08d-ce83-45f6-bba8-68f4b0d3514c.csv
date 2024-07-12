@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+1785a08d-ce83-45f6-bba8-68f4b0d3514c,SJNB-13,['Cell Line'],"The SJNB-13 cell line, also known as NB13, is a neuroblastoma cell line with N-MYC gene amplification that has been passaged 60-170 times.","['Cell line identity', 'Genomics']",,,,https://doi.org/10.1073/pnas.90.12.5539

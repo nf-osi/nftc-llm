@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+328fd785-453d-4a09-be93-b7da67d9d33e,A68,Cell Line,The A68 cell line was derived from a malignant peripheral nerve sheath tumor (MPNST) and harbors a NF1 mutation.,"['Cell line origin', 'Genetics']",,,,https://doi.org/10.1016/j.isci.2023.106096

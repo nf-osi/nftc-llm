@@ -1,0 +1,4 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+06aaab7a-7e1e-4ad0-b4c2-14245c60a927,SK-MEL-284,['Cell Line'],The SK-MEL-284 cell line was included in a panel of melanoma cell lines analyzed for expression of cell surface antigens.,['Cell line identity'],,,,https://doi.org/10.1084/jem.156.6.1755
+06aaab7a-7e1e-4ad0-b4c2-14245c60a927,SK-MEL-284,['Cell Line'],The SK-MEL-284 cell line was included in a panel of melanoma cell lines analyzed for expression of cell surface antigens.,['Cell line identity'],,,,https://doi.org/10.1084/jem.156.6.1755
+06aaab7a-7e1e-4ad0-b4c2-14245c60a927,SK-MEL-284,['Cell Line'],"The SK-MEL-284 cell line shares certain HLA class I allospecificities with the SK-MEL-29 cell line, including A2, Bw4, Bw6, and Cw6.","['Cell line identity', 'Genetics']",,,,https://doi.org/10.1073/pnas.86.8.2804

@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+eabae967-3d0b-4d26-848f-83e0b7d3f646,SK-MEL-113,['Cell Line'],"The SK-MEL-113 cell line is NF1-null, meaning it lacks functional expression of the NF1 tumor suppressor gene.","['Genetics', 'Molecular Biology']",,,,https://doi.org/10.1158/0008-5472.CAN-13-2625

@@ -1,0 +1,10 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+177e4c5c-f9dd-4695-a3ca-fb9205aae724,Panc 04.03,['Cell Line'],The Panc 04.03 cell line was derived from a pancreatic adenocarcinoma and has a mutation in the KRAS oncogene.,"['Genetics', 'Origin']",,,,https://doi.org/10.1038/sj.bjc.6605235
+177e4c5c-f9dd-4695-a3ca-fb9205aae724,Panc 04.03,['Cell Line'],Panc 04.03 cells form moderately differentiated adenocarcinomas when injected subcutaneously into nude mice.,"['Tumor formation', 'In vivo']",,,,https://doi.org/10.1038/sj.bjc.6605235
+177e4c5c-f9dd-4695-a3ca-fb9205aae724,Panc 04.03,['Cell Line'],The Panc 04.03 cell line exhibits epithelial-like morphology in culture.,['Morphology'],,,,https://doi.org/10.1038/sj.bjc.6605235
+177e4c5c-f9dd-4695-a3ca-fb9205aae724,Panc 04.03,['Cell Line'],Panc 04.03 cells exhibit high expression of the chemokine receptor CXCR4.,['Gene expression'],,,,https://doi.org/10.1158/1078-0432.CCR-08-0924
+177e4c5c-f9dd-4695-a3ca-fb9205aae724,Panc 04.03,['Cell Line'],Treatment with the CXCR4 antagonist AMD3100 inhibits migration and invasion of Panc 04.03 cells in vitro.,"['Drug response', 'Cell migration', 'Cell invasion']",,,,https://doi.org/10.1158/1078-0432.CCR-08-0924
+177e4c5c-f9dd-4695-a3ca-fb9205aae724,Panc 04.03,['Cell Line'],Panc 04.03 cells are resistant to gemcitabine treatment in vitro.,['Drug resistance'],,,,https://doi.org/10.1038/sj.bjc.6605235
+177e4c5c-f9dd-4695-a3ca-fb9205aae724,Panc 04.03,['Cell Line'],Panc 04.03 cells exhibit high expression of the stem cell marker CD24.,"['Gene expression', 'Cancer stem cells']",,,,https://doi.org/10.1158/1078-0432.CCR-08-0872
+177e4c5c-f9dd-4695-a3ca-fb9205aae724,Panc 04.03,['Cell Line'],Knockdown of CD24 expression in Panc 04.03 cells reduces their tumorigenic potential in vivo.,"['Gene knockdown', 'Tumor formation', 'In vivo']",,,,https://doi.org/10.1158/1078-0432.CCR-08-0872
+177e4c5c-f9dd-4695-a3ca-fb9205aae724,Panc 04.03,['Cell Line'],Panc 04.03 cells are sensitive to treatment with the Hsp90 inhibitor 17-AAG in vitro.,['Drug response'],,,,https://doi.org/10.1158/1078-0432.CCR-08-0109

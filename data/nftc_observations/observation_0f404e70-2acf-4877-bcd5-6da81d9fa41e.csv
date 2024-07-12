@@ -1,0 +1,5 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+0f404e70-2acf-4877-bcd5-6da81d9fa41e,90-8,['Cell Line'],The NF90-8 cell line had a highly gained region in chromosome 4 containing the PDGFRA and KIT receptors.,['Genomics'],,,,https://www.doi.org/10.1016/j.isci.2023.106096
+0f404e70-2acf-4877-bcd5-6da81d9fa41e,90-8,['Cell Line'],"The 90-8TL cell line exhibited downregulation of miR-145-5p, let-7b-5p, and miR-143-3p compared to the cutaneous neurofibroma cell line HS53T.",['Gene expression'],,,,https://www.doi.org/10.1038/s41598-020-59789-4
+0f404e70-2acf-4877-bcd5-6da81d9fa41e,90-8,['Cell Line'],The 90-8TL cell line exhibited upregulation of miR-135b-5p and miR-889-3p compared to the cutaneous neurofibroma cell line HS53T.,['Gene expression'],,,,https://www.doi.org/10.1038/s41598-020-59789-4
+0f404e70-2acf-4877-bcd5-6da81d9fa41e,90-8,['Cell Line'],The 90-8 cell line exhibited complete loss of heterozygosity with no detectable DNA from the wild-type NF1 allele.,['Genomics'],,,,https://www.doi.org/10.4137/TOG.S8830

@@ -1,0 +1,3 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+e1a6df94-feec-421c-a865-12d27212fd62,SK-MEL-110,['Cell Line'],"The SK-MEL-110 cell line showed sensitivity to the MEK inhibitor CI-1040, with an IC50 value clustering with other BRAF mutant melanoma cell lines.",['Drug response'],,,,https://doi.org/10.3389/fgene.2013.00066
+e1a6df94-feec-421c-a865-12d27212fd62,SK-MEL-110,['Cell Line'],The SK-MEL-110 cell line exhibited high expression of the M-2 melanoma cell surface antigen.,['Biomarker expression'],,,,https://doi.org/10.1084/jem.156.6.1755

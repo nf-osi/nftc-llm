@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+de94c5d9-6feb-402f-a0c6-6ac3389907c6,N10,Cell Line,The N10 cell line was derived from a human malignant peripheral nerve sheath tumor (MPNST) and harbors a heterozygous NF1 mutation (c.1649dupT).,"['Cell line origin', 'Genomics']",,,,https://www.doi.org/10.1016/j.isci.2023.106096

@@ -1,0 +1,2 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+7db6b49f-7eec-4b47-bbdc-675a8a464735,MPNST 724,['Cell Line'],"The MPNST-724 cell line, derived from a non-NF1 individual, showed a 38.79% apoptotic response when transfected with miR-34a, similar to the 36.23% response seen in the MPNST-14 (NF1 mutant) cell line.","['Cell viability', 'Apoptosis']",,,,https://www.doi.org/10.1002/path.2633

@@ -1,0 +1,4 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+3a507bfd-7d2b-4238-b79a-83fe985c2cea,hTERT ipn02.3 2λ,['Cell Line'],"The hTERT ipn02.3 2λ cell line was immortalized using both hTERT and mCdk4 transgenes, and has divided to at least passage 83 with no signs of senescence.","['Immortalization', 'Growth rate']",,83,passages,https://doi.org/10.1038/labinvest.2016.88
+3a507bfd-7d2b-4238-b79a-83fe985c2cea,hTERT ipn02.3 2λ,['Cell Line'],The hTERT ipn02.3 2λ cell line was obtained from ATCC and cultivated in DMEM with 10% FBS at 37C and 5% CO2.,['Cell culture conditions'],,,,https://doi.org/10.1371/journal.pone.0241821
+3a507bfd-7d2b-4238-b79a-83fe985c2cea,hTERT ipn02.3 2λ,['Cell Line'],"The hTERT ipn02.3 2λ cell line was able to be single-cell cloned, indicating it could be propagated from a single founder cell.",['Clonogenicity'],,,,https://doi.org/10.1038/labinvest.2016.88

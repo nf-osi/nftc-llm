@@ -1,0 +1,5 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+1097f821-56c3-4e51-bcd3-f84aef506e3a,WT ES,Cell Line,The WT ES cell line was used as a control in experiments comparing gene expression and differentiation potential with other embryonic stem cell lines.,"['Control', 'Gene expression', 'Differentiation potential']",,,,https://doi.org/10.1038/s41467-022-31524-6
+1097f821-56c3-4e51-bcd3-f84aef506e3a,WT ES,Cell Line,The WT ES cell line exhibited normal pluripotency and self-renewal capabilities typical of embryonic stem cells.,"['Pluripotency', 'Self-renewal']",,,,https://doi.org/10.1038/s41467-022-31524-6
+1097f821-56c3-4e51-bcd3-f84aef506e3a,WT ES,Cell Line,The WT ES cell line exhibited normal karyotype stability over multiple passages in culture.,['Karyotype stability'],,,,https://doi.org/10.1038/s41467-022-31524-6
+1097f821-56c3-4e51-bcd3-f84aef506e3a,WT ES,Cell Line,Gene expression analysis showed the WT ES cell line clustered closely with other pluripotent embryonic stem cell lines.,"['Gene expression', 'Pluripotency']",,,,https://doi.org/10.1038/s41467-022-31524-6

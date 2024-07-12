@@ -1,0 +1,4 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+dc674458-affb-46a3-8a48-90fe556b44d1,NF11.1,['Cell Line'],,[],,,,
+dc674458-affb-46a3-8a48-90fe556b44d1,NF11.1,['Cell Line'],"The NF11.1 cell line showed sensitivity to the MEK inhibitor trametinib, with an IC50 < 45 nmol/L for inhibiting proliferation. However, phospho-ERK inhibition by trametinib was not sustained over time in NF11.1 cells.","['Drug response', 'Signaling pathway']",,,,https://www.doi.org/10.1158/0008-5472.CAN-20-1992
+dc674458-affb-46a3-8a48-90fe556b44d1,NF11.1,['Cell Line'],"The NF11.1 cell line exhibited intermediate sensitivity to the MEK inhibitor trametinib, with an IC50 of around 100 nmol/L for inhibiting proliferation.",['Drug response'],,,,https://www.doi.org/10.1158/0008-5472.CAN-20-1992

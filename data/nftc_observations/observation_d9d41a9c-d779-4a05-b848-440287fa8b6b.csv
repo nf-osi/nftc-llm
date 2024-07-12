@@ -1,0 +1,5 @@
+resourceId,resourceName,resourceType,observationText,observationType,observationPhase,observationTime,observationTimeUnits,doi
+d9d41a9c-d779-4a05-b848-440287fa8b6b,Nf1flox/-;Col2.3Cre(+),['Animal Model'],The Nf1flox/-;Col2.3Cre(+) mice exhibited reduced Nf1 gene expression compared to wild-type controls.,['Genetics'],,,,https://www.doi.org/10.1002/jbmr.1992
+d9d41a9c-d779-4a05-b848-440287fa8b6b,Nf1flox/-;Col2.3Cre(+),['Animal Model'],Mesenchymal stem cells (MSCs) from Nf1flox/-;Col2.3Cre(+) mice harbored biallelic Nf1 inactivation.,"['Genetics', 'Cell biology']",,,,https://www.doi.org/10.1002/jbmr.1992
+d9d41a9c-d779-4a05-b848-440287fa8b6b,Nf1flox/-;Col2.3Cre(+),['Animal Model'],Nf1flox/-;Col2.3Cre(+) mice exhibited increased serum TGF-β1 levels compared to wild-type controls.,['Biochemistry'],,,,https://www.doi.org/10.1002/jbmr.1992
+d9d41a9c-d779-4a05-b848-440287fa8b6b,Nf1flox/-;Col2.3Cre(+),['Animal Model'],Mesenchymal stem cells from Nf1flox/-;Col2.3Cre(+) mice with biallelic Nf1 inactivation showed increased proliferation compared to wild-type controls.,['Cell biology'],,,,https://www.doi.org/10.1002/jbmr.1992
